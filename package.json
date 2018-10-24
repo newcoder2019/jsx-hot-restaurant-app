@@ -1,0 +1,27 @@
+{
+  "name": "jsx-hot-restaurant-app",
+  "version": "1.0.0",
+  "description": "jsx in class activity",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newcoder2019/jsx-hot-restaurant-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newcoder2019/jsx-hot-restaurant-app/issues"
+  },
+  "homepage": "https://github.com/newcoder2019/jsx-hot-restaurant-app#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-react-views": "^0.10.5",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  }
+}
